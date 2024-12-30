@@ -1,8 +1,33 @@
-# React + Vite
+# Get Jokes Chrome Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Description
+Get Jokes is a Chrome extension that fetches a unique joke every time you click it. Whether you're looking for a quick laugh or a moment of levity, this extension delivers!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+<ul>
+  <li>Fetches a unique joke from an API every time.</li>
+  <li>Simple and lightweight extension.</li>
+  <li>Works seamlessly in the background.</li>
+</ul>
+
+---
+
+## 🖼️ Screenshots
+
+<h3>Extension</h3>
+<img src="./screenshot//extension.png" alt="Popup Interface" width="600">
+
+<h3>Joke Example</h3>
+<img src="./screenshot//showJoke.png" alt="Joke Example" width="600">
+
+---
+
+## 🛠️ Installation
+
+<ol>
+  <li>Clone or download this repository:
+    <pre><code>git clone https://github.com/nandani-1411/Chrome-Extension.git</code></pre>
+  </li>
+</ol>
