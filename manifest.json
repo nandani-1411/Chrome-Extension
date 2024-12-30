@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Get Jokes",
+    "version": "1.0.0",
+    "description": "This Extension will fetch jokes and give a Unique Joke Every Time.",
+    "icons": {
+      "128": "src/assets/myjoke.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions":[
+        "activeTab"
+    ]
+}
